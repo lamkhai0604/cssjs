@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://maylocnuocetcom.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-AeXyiyWm9S8/Ws9f9QB4tEI/AAAAAAAADNc/KRsHeRQ34eIn99Ow7gtlXnDvKOXonbr_ACLcBGAs/s1600/6.jpg' width='500px'/><br/>13 Máy lọc nước RO</a>. Liên hệ hotline 0908983936. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://maylocnuocetcom.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-AeXyiyWm9S8/Ws9f9QB4tEI/AAAAAAAADNc/KRsHeRQ34eIn99Ow7gtlXnDvKOXonbr_ACLcBGAs/s1600/6.jpg' width='500px'/><br/>Máy lọc nước RO</a>. Liên hệ hotline 0908983936. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
