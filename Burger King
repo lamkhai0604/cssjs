@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      <img src="https://burgerking.vn/skin/frontend/bk2/default/images/logo.png"></img>
+    <a class="nav-item" href="#">HOME</a>
+    <a class="nav-item" href="#">MENU</a>
+    </nav>
+  <div>
+    <img class="main-pic" src="https://www.burgerking.co.za/media/5566/website-banners-bacon-king.jpg?anchor=center&mode=crop&width=1800&height=760&rnd=132125106190000000"></img>
+  </div>
+<div class="aboutus-title">
+  <strong>ABOUT US</strong>
+  </div>
+<div class="aboutus-content">
+  <div>
+    <h1>GREAT FOOD COMES FIRST</h1>
+    <p class="content">Every day, more than 11 million guests visit BURGER KING®️ restaurants around the world. And they do so because our restaurants are known for serving high-quality, great-tasting, and affordable food. Founded in 1954, BURGER KING®️ is the second largest fast food hamburger chain in the world. The original HOME OF THE WHOPPER®️, our commitment to premium ingredients, signature recipes, and family-friendly dining experiences is what has defined our brand for more than 50 successful years.</p>  
+  </div>
+  <div>
+    <h1>3G CAPITAL</h1>
+    <p class="content">In 2010, 3G Capital, a global multi-million dollar investment firm focused on long term value creation, purchased Burger King Corporation, making it a privately-held company. To learn more about 3G Capital, click here.</p>
+  </div>
+  <div class="contact-area">
+    <h1>CONTACT</h1>
+    <p class="content">Burger King Corporation
+      Phone Number: 1-866-394-2493</p>
+  </div>
+</div>
+  </body>
+<footer>
+    <div class="left">
+       Burger King<br>
+      TM &amp &copy 2019 Burger King Corporation. All Right Reserved<br>
+        <a class="sidebar" href="#">Home</a> | <a class="sidebar" href="#">Menu</a>
+    </div>  
+    <div class="right">
+        Contact Email : lamkhai0604@gmail.com<br>
+      Phone : 0908983936<br>
+      Address : 740/7 Sư Vạn Hạnh Phường 12 Quận 10, Tp Hồ Chí Minh.
+    </div>
+</footer>
