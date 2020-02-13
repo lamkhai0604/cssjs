@@ -46,3 +46,66 @@
       Address : 740/7 Sư Vạn Hạnh Phường 12 Quận 10, Tp Hồ Chí Minh.
     </div>
 </footer>
+
+
+nav{
+  background-color: orange;
+  width: 100%;
+  padding-left: 30px;
+  display: flex;
+  align-items: center;
+}
+.nav-item{
+  color: white;
+  font-size: 30px;
+  padding-left: 10px;
+  padding-right: 30px;
+  text-decoration: none;
+}
+.main-pic{
+  width: 100%;
+}
+.aboutus-title{
+  background-color: grey;
+  width: 100%;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+.aboutus-content{
+  text-align: center;
+  
+  padding-bottom: 100px;
+  width: 100%
+}
+h1{
+  font-size: 50px;
+}
+.content{
+  font-size: 20px;
+  
+}
+footer {
+  background-color: #522E1D;
+  color: white;
+  height: 70px;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.left {
+  float: left; 
+  padding-left: 20px;
+}
+.right {
+  float: right;
+}
+.sidebar{
+  text-decoration: none;
+}
+.contact-area { 
+  text-align: center;
+  background-image: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+  padding-bottom: 100px;
+  width: 100%
+}
